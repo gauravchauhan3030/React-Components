@@ -6,7 +6,7 @@ import Translate from './components/Translate';
 import Route from './components/Route';
 import Header from './components/Header';
 import DynamicDropdown2 from './components/DynamicDropdown2';
-// import { IndicatorSeparator } from 'react-select/src/components/indicators';
+
 
 const items = [
   {
